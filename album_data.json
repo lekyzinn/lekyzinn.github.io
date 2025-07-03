@@ -2011,7 +2011,7 @@
   "288": {
     "team": "River Plate",
     "number": 288,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
