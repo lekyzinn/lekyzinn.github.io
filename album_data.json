@@ -2389,7 +2389,7 @@
   "342": {
     "team": "Inter Miami",
     "number": 342,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
