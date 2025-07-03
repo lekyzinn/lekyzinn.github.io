@@ -3572,7 +3572,7 @@
   "511": {
     "team": "Auckland City",
     "number": 511,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Escudo"
   },
