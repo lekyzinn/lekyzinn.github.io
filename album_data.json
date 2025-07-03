@@ -2816,7 +2816,7 @@
   "403": {
     "team": "Wydad Casablanca",
     "number": 403,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
