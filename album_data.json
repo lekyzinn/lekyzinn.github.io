@@ -1311,7 +1311,7 @@
   "188": {
     "team": "Red Bull Salzburg",
     "number": 188,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Escudo"
   },
