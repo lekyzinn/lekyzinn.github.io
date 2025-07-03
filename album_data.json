@@ -1759,7 +1759,7 @@
   "252": {
     "team": "Fluminense",
     "number": 252,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
