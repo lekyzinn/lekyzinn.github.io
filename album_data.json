@@ -1612,7 +1612,7 @@
   "231": {
     "team": "Flamengo",
     "number": 231,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
