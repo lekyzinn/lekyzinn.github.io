@@ -2172,7 +2172,7 @@
   "311": {
     "team": "Monterrey",
     "number": 311,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
