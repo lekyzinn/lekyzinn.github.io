@@ -1829,7 +1829,7 @@
   "262": {
     "team": "Botafogo",
     "number": 262,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
