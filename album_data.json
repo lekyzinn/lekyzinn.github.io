@@ -863,7 +863,7 @@
   "124": {
     "team": "Porto",
     "number": 124,
-    "collected": false,
+    "collected": true,
     "duplicates": 0,
     "type": "Jogador"
   },
